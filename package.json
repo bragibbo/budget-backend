@@ -1,0 +1,12 @@
+{
+  "name": "budget-backend",
+  "version": "1.0.0",
+  "description": "Backend for a budget app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bragibbo",
+  "license": "Apache-2.0"
+}
